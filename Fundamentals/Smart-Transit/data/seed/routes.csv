@@ -1,0 +1,4 @@
+route_id,start_point,end_point,capacity
+R1,Thane,CSMT,50
+R2,Mira Road,Andheri,40
+R3,Virar,Dahanu,30
